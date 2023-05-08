@@ -1,4 +1,4 @@
-Amazon Automation Task
+# Amazon Automation Task
 This is a Java-based web scraper that extracts product information from Amazon search results and adds qualifying products to the cart. The scraper uses the Selenium WebDriver API to automate interactions with the Amazon website.
 
 Getting Started
